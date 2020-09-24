@@ -1,0 +1,41 @@
+.bdy {
+    background-color: green;
+}
+
+.container {
+    margin-left: 400px;
+    margin-top: 250px;
+}
+
+.divhead {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    height: 80px;
+    width: 700px;
+}
+
+#heading {
+    color: white;
+    font-size: 50px;
+    padding: 10px;
+    text-align: left;
+}
+
+#btn {
+    margin-top: 30px;
+    margin-left: 200px;
+    height: 50px;
+    width: 150px;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 25px;
+    transition: 0.5s;
+    text-decoration: none;
+    outline: none;
+}
+
+#btn:hover {
+    background-color: black;
+    color: white;
+}
